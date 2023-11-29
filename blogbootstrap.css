@@ -1,0 +1,17 @@
+body{
+    height: 100%;
+}
+
+.elementinav{
+
+    color: white !important;
+}
+.imma{
+    height: 50px;
+    width: 50px;
+    margin: 0px;
+}
+.mainino{
+    background-color: rgb(20, 19, 19);
+    height: 100%;
+}
